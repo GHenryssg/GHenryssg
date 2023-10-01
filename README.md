@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9932CC&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Luis+Mario;)](https:git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9932CC&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Gabriel+Henry;)](https:git.io/typing-svg)
 
 • Estudante de Engenharia de Computação<br>na Universidade Estadual de Feira de Santana - UEFS.
 

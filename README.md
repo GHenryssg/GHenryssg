@@ -9,7 +9,8 @@
 [![Gmail](https://img.shields.io/badge/Gmail-%23E4405F.svg?logo=Gmail&logoColor=white)](mailto:gabrielhenrysilva10@gmail.com)
 
 # 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white) ![IntelliJ](https://img.shields.io/badge/IntelliJ-%23ED8B00.svg?style=plastic&logo=IntelliJIDEA&logoColor=black)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+ ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  ![IntelliJ](https://img.shields.io/badge/IntelliJ-%23ED8B00.svg?style=plastic&logo=IntelliJIDEA&logoColor=black)
 ![Visual Studio Code](https://img.shields.io/badge/VisualStudioCode-%23ED8B00.svg?style=plastic&logo=VisualStudioCode&logoColor=black)
 
 # 📊 GitHub Stats:

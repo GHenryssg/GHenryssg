@@ -1,16 +1,20 @@
-### Hi there 👋
 
-<!--
-**GHenryssg/GHenryssg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9932CC&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Luis+Mario;)](https:git.io/typing-svg)
 
-Here are some ideas to get you started:
+• Estudante de Engenharia de Computação<br>na Universidade Estadual de Feira de Santana - UEFS.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ghenr.y) 
+[![Gmail](https://img.shields.io/badge/Gmail-%23E4405F.svg?logo=Gmail&logoColor=white)](mailto:gabrielhenrysilva10@gmail.com)
+
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white) ![IntelliJ](https://img.shields.io/badge/IntelliJ-%23ED8B00.svg?style=plastic&logo=IntelliJIDEA&logoColor=black)
+![Visual Studio Code](https://img.shields.io/badge/VisualStudioCode-%23ED8B00.svg?style=plastic&logo=VisualStudioCode&logoColor=black)
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=GHenryssg&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=GHenryssg&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=GHenryssg&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

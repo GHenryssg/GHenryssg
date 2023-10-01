@@ -10,8 +10,11 @@
 
 # 💻 Tech Stack:
 <img aligne="center" alt="Henry-c" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
- ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  ![IntelliJ](https://img.shields.io/badge/IntelliJ-%23ED8B00.svg?style=plastic&logo=IntelliJIDEA&logoColor=black)
-![Visual Studio Code](https://img.shields.io/badge/VisualStudioCode-%23ED8B00.svg?style=plastic&logo=VisualStudioCode&logoColor=black)
+<img aligne="center" alt="Henry-python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
+<img aligne="center" alt="Henry-java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
+<img aligne="center" alt="Henry-intellij" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" />
+<img aligne="center" alt="Henry-vscode" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=GHenryssg&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
